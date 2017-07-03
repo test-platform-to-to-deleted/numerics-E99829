@@ -1,6 +1,0 @@
-#+TITLE: Index
-#+AUTHOR: Vlead
-
-* numerics
-** [[./introduction-e99829-E99829/introduction-e99829-E99829.org][introduction-E99829]]
-** [[./experiment-e99829-E99829/experiment-e99829-E99829.org][experiment-E99829]]
