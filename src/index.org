@@ -1,9 +1,0 @@
-#+TITLE: Index
-#+AUTHOR: Vlead
-
-* Numerics
-** [[./introduction-E99829/introduction-E99829.org][Introduction]]
-** [[./blog-E99829/blog-E99829.org][Blog]]
-** [[./method-E99829/method-E99829.org][Method]]
-** [[./hello-E99829/hello-E99829.org][Hello]]
-** [[./simulation-E99829/simulation-E99829.org][Simulation]]
