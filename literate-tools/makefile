@@ -4,7 +4,7 @@ BUILD_DIR=build
 VER_BRANCH=build-release
 VER_FILE=VERSION
 
-ORG_MODE_DIR=/root/emacs/lisp
+ORG_MODE_DIR=/var/www/emacs/lisp
 LITERATE_TOOLS="https://github.com/vlead/literate-tools.git"
 LITERATE_DIR=literate-tools
 ELISP_DIR=elisp
