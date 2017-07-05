@@ -34,7 +34,7 @@
 (setq load-path
       (append
        (list (concat (getenv "HOME") "/emacs/lisp/org-8.2.10/lisp")
-	     (concat (getenv "HOME") "/emacs/lisp/org-8.2.10/contrib/lisp")
+	     (concat (getenv "HOME") "/emacs/lisp/org-8.2.10/contrib/lisp"))
        load-path))
 
 (require 'org)
