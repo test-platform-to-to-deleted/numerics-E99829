@@ -12,7 +12,7 @@ init:
 	chmod u+x init.sh
 	./init.sh
 
-build: init
+build: 
 	make -f tangle-make -k all
 
 post-build: build
