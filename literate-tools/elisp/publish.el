@@ -33,8 +33,8 @@
 
 (setq load-path
       (append
-       (list "~/emacs/lisp/org-8.2.10/lisp"
-	     "~/emacs/lisp/org-8.2.10/contrib/lisp")
+       (list "/root/emacs/lisp/org-8.2.10/lisp"
+	     "/root/emacs/lisp/org-8.2.10/contrib/lisp")
        load-path))
 
 (require 'org)
